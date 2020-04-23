@@ -1,5 +1,6 @@
 {
-  "name": "koa-proxies",
+  "name": "koa-proxies-plus",
+  "version": "1.0.0",
   "description": "Http Proxy Middleware for Koa@2.x/next",
   "keywords": [
     "koa",
@@ -18,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vagusX/koa-proxies.git"
+    "url": "https://github.com/ShanaMaid/koa-proxies.git"
   },
-  "author": "vagusX",
+  "author": "ShanaMaid",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vagusX/koa-proxies/issues"
+    "url": "https://github.com/ShanaMaid/koa-proxies/issues"
   },
-  "homepage": "https://github.com/vagusX/koa-proxies#readme",
+  "homepage": "https://github.com/ShanaMaid/koa-proxies#readme",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged",
